@@ -13,7 +13,7 @@ Make sure your ECS container agent is [updated](http://docs.aws.amazon.com/Amazo
 
 To run a Docker container
 
-    docker run jenkinsci/jnlp-slave -url http://jenkins-server:port <secret> <slave name>
+    docker run oviis/jenkins-maven-slave -url http://jenkins-server:port <secret> <slave name>
 
 optional environment variables:
 
