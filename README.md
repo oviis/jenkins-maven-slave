@@ -1,4 +1,4 @@
-# Jenkins JNLP slave Docker image inspired by jenkinsci/jnlp-slave
+# Jenkins JNLP slave Docker image for running jenkins maven jobs
 
 inspired by and credits to
 [`jenkinsci/jnlp-slave`](https://hub.docker.com/r/jenkinsci/jnlp-slave/)
